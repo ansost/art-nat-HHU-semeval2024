@@ -6,6 +6,7 @@ CHOOSE your dataset by specifying it in line 34.
 Usage:
     merge_features.py
 """
+
 import pandas as pd
 
 
@@ -26,8 +27,6 @@ def remove_cols(df):
 
 
 if __name__ == "__main__":
-    import pandas as pd
-
     # Choose dataset from: dev, train, test
     dataset = "test"
     validate_dataset(dataset)
