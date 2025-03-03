@@ -1,5 +1,5 @@
 # Submission of team "Artificially Natural HHU" for SemEval 2024 task 8
-**Authors:** [Nele Mastracchio](https://slam.phil.hhu.de/authors/nele), [Wiebke Petersen](https://user.phil.hhu.de/~petersen/), [Anna Stein](https://ansost.com), [Cornelia Genz] (https://github.com/ConnyGenz), Hanxin Xia, Vittorio Ciccarelli
+**Authors:** [Nele Mastracchio](https://slam.phil.hhu.de/authors/nele), [Wiebke Petersen](https://user.phil.hhu.de/~petersen/), [Anna Stein](https://ansost.com), [Cornelia Genz](https://github.com/ConnyGenz), Hanxin Xia, Vittorio Ciccarelli
 
 **Affiliation:** [Heinrich Heine University Düsseldorf](https://www.hhu.de/)
 
